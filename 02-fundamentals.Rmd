@@ -77,7 +77,9 @@ Michael Friendly,2006,A Brief History of Data Visualization,York University.http
       
       
 ## 2. Fundamental Components of Design
-          
+       
+  **Melissa Anderson's nine principles of design**
+  
   Artists use balance, emphasis, movement, pattern, repetition, proportion, rhythm, variety, and unity as the design
   foundation of any work. If you want to take your data visualization from an everyday dashboard to a compelling data story,
   incorporate the 9 principles of design from graphic designer Melissa Anderson's article:
@@ -104,8 +106,26 @@ Michael Friendly,2006,A Brief History of Data Visualization,York University.http
   attention to in my art. When thinking about the art design of data visualization it is also very important to remain keen on
   the main point of your story and how the entire visualization is either drawing the viewer to that point of emphasis or how
   they are being distracted or drawn elsewhere.
-          
-          
+  
+  **Edward Tufte's Design Principles for Graphs**
+
+  According to Edward Tufte, a Professor Emeritus in Political Science, Computer Science & Statistics at Yale University, and a colossus   in the sphere in data visualization, creating good graphics from statistical data requires conveying the complex inferences and trends   from that data in a clear, precise and efficient manner. He says that - 
+
+  > Graphical displays should
+
+  > * show the data
+  > * induce the viewer to think about the substance rather than about methodology, graphic design, the technology of graphic                 production, or something else
+  > * avoid distorting what the data have to say
+  > * present many numbers in a small space
+  > * make large data sets coherent
+  > * encourage the eye to compare different pieces of data
+  > * reveal the data at several levels of detail, from a broad overview to the fine structure
+  > * serve a reasonably clear purpose: description, exploration, tabulation, or decoration
+  > * be closely integrated with the statistical and verbal descriptions of a data set
+  
+  **Reference:** Tufte, Edward R. (1983). The Visual Display of Quantitative Information. _Graphics Press_. Cheshire, CT.
+
+
 ## 3. Guide to Best Practices in Data Visualization
   
   These are the best practices of data visualization. Anticipate in advance what kind of questions the viewers will ask and
