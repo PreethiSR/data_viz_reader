@@ -112,3 +112,12 @@ One of the plot's biggest strengths is that by using one dot to represent each p
 A drawback of the plot is that it is hard for our eyes to keep track of 1000 simultaneously moving dots.  The author of the post addresses this by creating subsequent plots with stationary lines at key times of the day.  This represents people's movements from one activity to another without overwhelming the reader.
 
 Overall, this is an engaging, informative, and fun animated plot that has relevance and tells a story.
+
+8. A Simple Interactive Chart Comparison - Britain's Diet in Data
+
+Sometimes, trading in fancy for functional helps tell a story more effectively and holistically. This is clearly evident in this data visualization product created by the Open Data Institute, London, based on data sourced from the United Kindgdom's Department for Environment, Food and Rural Affairs (Defra). Featuring data on hundreds of food and drink cactegories, this product, a series of simple X-Y plots and bar plots, reveals how the consumption of foods in these categoreies has changed over the span of four decades, while providing a comparison of what constitutes a typical diet over that same span of time. The easy-to-notice trendlines provides a immediate idea of whether the consumption of a particular food/drink has gone up or down (fruits obviously trending upwards while sugars and preserves trend downwards), whereas the interactive nature of the plots allows us to gain more insight into how much was consumed in a particular year.
+
+While the many plots may seem overwhelming at first, the simple nature of the plots encourage viewer to peer in and explore further, with the use of color and interactive hover feature keeping them engaged, thus making them assimilate more data than would be possible through text or a series of graphics spanning many pages. Design-wise, this data visualization product ticks through all the guidelines prescribed by Edward Tufte and the nine principles of Melissa Anderson. 
+
+**Reference:**  britains-diet.labs.theodi.org
+
